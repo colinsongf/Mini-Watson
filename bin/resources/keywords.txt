@@ -1,0 +1,14 @@
+Verb,direct,MOVIE
+Verb,act,MOVIE
+Verb,sing,MUSIC
+CommonNoun,oscar,MOVIE
+CommonNoun,movie,MOVIE
+CommonNoun,film,MOVIE
+CommonNoun,actor,MOVIE
+CommonNoun,actress,MOVIE
+CommonNoun,album,MUSIC
+CommonNoun,track,MUSIC
+CommonNoun,country,GEOGRAPHY
+CommonNoun,city,GEOGRAPHY
+Adjective,highest,GEOGRAPHY
+Adjective,deepest,GEOGRAPHY
